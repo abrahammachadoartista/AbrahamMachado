@@ -1,0 +1,52 @@
+/*.navbar-inner {
+    background: transparent;
+}*/
+
+.carousel-inner {
+    max-height: 39rem;
+
+}
+@media (max-width:768px) {
+    #intro {
+        width: 90% !important;
+    }
+
+}
+
+footer {
+    background: black;
+    min-height: 100px;
+}
+
+footer p {
+    color: white;
+    text-align: center;
+}
+
+#iconos i {
+    font-size: 26px;
+    padding: 0 8px;
+    color: white;
+}
+
+.cmn-divfloat {
+    position: fixed !important;
+    bottom: 45px;
+    right: 15px;
+    display: none;
+    
+}
+
+.cmn-btncircle {
+    width: 40px !important;
+    height: 40px !important;
+    padding: 6px 0px;
+    border-radius: 15px;
+    font-size: 18px;
+    text-align: center;
+}
+
+#perfil{
+    width: 35%;
+    align: center !important;
+}
