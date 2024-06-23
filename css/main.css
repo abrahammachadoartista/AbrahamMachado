@@ -50,3 +50,15 @@ footer p {
     width: 35%;
     align: center !important;
 }
+
+.navbar-logo{
+    display: inline-block;
+    vertical-align: middle;
+    width: 50px;
+  }
+
+  .navbar-logo img{
+    display: block;
+    width: 100%;
+    height: auto;
+  }
