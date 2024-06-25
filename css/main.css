@@ -1,6 +1,3 @@
-/*.navbar-inner {
-    background: transparent;
-}*/
 
 .carousel-inner {
     max-height: 39rem;
@@ -54,7 +51,7 @@ footer p {
 .navbar-logo{
     display: inline-block;
     vertical-align: middle;
-    width: 50px;
+    width: 45px;
   }
 
   .navbar-logo img{
