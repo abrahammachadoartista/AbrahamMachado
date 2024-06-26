@@ -67,3 +67,8 @@ footer p {
   .navbar-toggler:focus{
     box-shadow:none !important;
   }
+
+  .modal-content{
+    max-width: 85%;
+    margin: auto;
+  }
